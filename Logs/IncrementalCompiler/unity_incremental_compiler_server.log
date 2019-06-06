@@ -1,0 +1,118 @@
+ (0,0): [06/06/2019 08:04:27.967 上午] Unity incremental compiler server
+ (0,0): [06/06/2019 08:04:28.380 上午] watchdog active on pid: 45952
+ (0,0): [06/06/2019 08:04:57.868 上午] Unity.Mathematics.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:57.886 上午] Unity.Mathematics.dll compiling...
+ (0,0): [06/06/2019 08:04:57.901 上午] Unity.CollabProxy.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:57.913 上午] Unity.CollabProxy.Editor.dll compiling...
+ (0,0): [06/06/2019 08:04:57.920 上午] Unity.Analytics.DataPrivacy.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:57.933 上午] Unity.Analytics.DataPrivacy.dll compiling...
+ (0,0): [06/06/2019 08:04:57.946 上午] Unity.Properties.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:57.958 上午] Unity.Properties.dll compiling...
+ (0,0): [06/06/2019 08:04:57.971 上午] Unity.Burst.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:57.982 上午] Unity.Burst.dll compiling...
+ (0,0): [06/06/2019 08:04:57.998 上午] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:04:58.010 上午] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:02.134 上午] Unity.Burst.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Burst.dll
+ (0,0): [06/06/2019 08:05:02.135 上午] Unity.CollabProxy.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.CollabProxy.Editor.dll
+ (0,0): [06/06/2019 08:05:02.149 上午] Unity.PackageManagerUI.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [06/06/2019 08:05:02.150 上午] Unity.Analytics.DataPrivacy.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Analytics.DataPrivacy.dll
+ (0,0): [06/06/2019 08:05:02.150 上午] Unity.Properties.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Properties.dll
+ (0,0): [06/06/2019 08:05:02.244 上午] Unity.Burst.dll compilation finished in 4262ms  source files re-parsed: 3 metadata reloaded: 195
+ (0,0): [06/06/2019 08:05:02.310 上午] Unity.PackageManagerUI.Editor.dll compilation finished in 4300ms  source files re-parsed: 52 metadata reloaded: 204
+ (0,0): [06/06/2019 08:05:02.337 上午] Unity.CollabProxy.Editor.dll compilation finished in 4425ms  source files re-parsed: 17 metadata reloaded: 199
+ (0,0): [06/06/2019 08:05:02.312 上午] Unity.Burst.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.363 上午] Unity.PackageManagerUI.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.416 上午] Unity.Properties.dll compilation finished in 4458ms  source files re-parsed: 34 metadata reloaded: 193
+ (0,0): [06/06/2019 08:05:02.380 上午] Unity.Analytics.DataPrivacy.dll compilation finished in 4447ms  source files re-parsed: 3 metadata reloaded: 196
+ (0,0): [06/06/2019 08:05:02.429 上午] Unity.CollabProxy.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.441 上午] Unity.Analytics.DataPrivacy.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.441 上午] Unity.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.844 上午] Unity.Burst.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:02.857 上午] Unity.Burst.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:02.954 上午] Unity.Mathematics.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Mathematics.dll
+ (0,0): [06/06/2019 08:05:02.998 上午] Unity.Burst.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Burst.Editor.dll
+ (0,0): [06/06/2019 08:05:03.093 上午] Unity.Burst.Editor.dll compilation finished in 235ms  source files re-parsed: 10 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:03.104 上午] Unity.Burst.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.108 上午] Unity.Mathematics.dll compilation finished in 5221ms  source files re-parsed: 82 metadata reloaded: 191
+ (0,0): [06/06/2019 08:05:03.119 上午] Unity.Mathematics.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.137 上午] Unity.Properties.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.148 上午] Unity.Properties.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:03.268 上午] Unity.Properties.Codegen.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.279 上午] Unity.Properties.Codegen.dll compiling...
+ (0,0): [06/06/2019 08:05:03.355 上午] Unity.Properties.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Properties.Editor.dll
+ (0,0): [06/06/2019 08:05:03.416 上午] Unity.Properties.Codegen.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Properties.Codegen.dll
+ (0,0): [06/06/2019 08:05:03.420 上午] Unity.Collections.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.431 上午] Unity.Collections.dll compiling...
+ (0,0): [06/06/2019 08:05:03.493 上午] Unity.Properties.Editor.dll compilation finished in 345ms  source files re-parsed: 23 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:03.523 上午] Unity.Properties.Codegen.dll compilation finished in 243ms  source files re-parsed: 7 metadata reloaded: 0
+ (0,0): [06/06/2019 08:05:03.529 上午] Unity.Properties.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.532 上午] Unity.Mathematics.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.534 上午] Unity.Properties.Codegen.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.538 上午] Unity.Collections.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Collections.dll
+ (0,0): [06/06/2019 08:05:03.543 上午] Unity.Mathematics.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:03.596 上午] Unity.Mathematics.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Mathematics.Editor.dll
+ (0,0): [06/06/2019 08:05:03.612 上午] Unity.Collections.dll compilation finished in 181ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:03.623 上午] Unity.Collections.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.639 上午] Unity.Mathematics.Editor.dll compilation finished in 96ms  source files re-parsed: 4 metadata reloaded: 0
+ (0,0): [06/06/2019 08:05:03.651 上午] Unity.Mathematics.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.833 上午] Unity.Entities.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.844 上午] Unity.Entities.dll compiling...
+ (0,0): [06/06/2019 08:05:03.962 上午] Unity.Jobs.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:03.975 上午] Unity.Jobs.dll compiling...
+ (0,0): [06/06/2019 08:05:04.059 上午] Unity.Jobs.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Jobs.dll
+ (0,0): [06/06/2019 08:05:04.107 上午] Unity.Jobs.dll compilation finished in 132ms  source files re-parsed: 3 metadata reloaded: 0
+ (0,0): [06/06/2019 08:05:04.119 上午] Unity.Jobs.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.151 上午] Unity.Entities.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Entities.dll
+ (0,0): [06/06/2019 08:05:04.231 上午] Unity.Entities.dll compilation finished in 387ms  source files re-parsed: 58 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:04.243 上午] Unity.Entities.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.308 上午] Unity.Jobs.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.319 上午] Unity.Jobs.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:04.350 上午] Unity.Jobs.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Jobs.Editor.dll
+ (0,0): [06/06/2019 08:05:04.386 上午] Unity.Jobs.Editor.dll compilation finished in 67ms  source files re-parsed: 1 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:04.398 上午] Unity.Jobs.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.442 上午] Unity.Entities.Hybrid.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.454 上午] Unity.Entities.Hybrid.dll compiling...
+ (0,0): [06/06/2019 08:05:04.490 上午] Unity.Entities.Hybrid.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Entities.Hybrid.dll
+ (0,0): [06/06/2019 08:05:04.537 上午] Unity.Entities.Hybrid.dll compilation finished in 83ms  source files re-parsed: 12 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:04.549 上午] Unity.Entities.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.766 上午] Unity.Transforms.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:04.778 上午] Unity.Transforms.dll compiling...
+ (0,0): [06/06/2019 08:05:04.842 上午] Unity.Transforms.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Transforms.dll
+ (0,0): [06/06/2019 08:05:04.890 上午] Unity.Transforms.dll compilation finished in 112ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:04.901 上午] Unity.Transforms.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.143 上午] Unity.Rendering.Hybrid.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.154 上午] Unity.Rendering.Hybrid.dll compiling...
+ (0,0): [06/06/2019 08:05:05.229 上午] Unity.Rendering.Hybrid.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Rendering.Hybrid.dll
+ (0,0): [06/06/2019 08:05:05.247 上午] Unity.Entities.Properties.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.259 上午] Unity.Entities.Properties.dll compiling...
+ (0,0): [06/06/2019 08:05:05.280 上午] Unity.Rendering.Hybrid.dll compilation finished in 126ms  source files re-parsed: 9 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:05.293 上午] Unity.Rendering.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.306 上午] Unity.Entities.Properties.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Entities.Properties.dll
+ (0,0): [06/06/2019 08:05:05.345 上午] Unity.Transforms.Hybrid.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.357 上午] Unity.Transforms.Hybrid.dll compiling...
+ (0,0): [06/06/2019 08:05:05.360 上午] Unity.Entities.Properties.dll compilation finished in 102ms  source files re-parsed: 14 metadata reloaded: 0
+ (0,0): [06/06/2019 08:05:05.372 上午] Unity.Entities.Properties.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.389 上午] Unity.Transforms.Hybrid.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Transforms.Hybrid.dll
+ (0,0): [06/06/2019 08:05:05.420 上午] Unity.Transforms.Hybrid.dll compilation finished in 63ms  source files re-parsed: 6 metadata reloaded: 0
+ (0,0): [06/06/2019 08:05:05.432 上午] Unity.Transforms.Hybrid.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.669 上午] Unity.Entities.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.681 上午] Unity.Entities.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:05.786 上午] Unity.Entities.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Entities.Editor.dll
+ (0,0): [06/06/2019 08:05:05.850 上午] Unity.Entities.Editor.dll compilation finished in 169ms  source files re-parsed: 26 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:05.861 上午] Unity.Entities.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:05.992 上午] Unity.Transforms.Editor.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:06.003 上午] Unity.Transforms.Editor.dll compiling...
+ (0,0): [06/06/2019 08:05:06.028 上午] Unity.Transforms.Editor.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Unity.Transforms.Editor.dll
+ (0,0): [06/06/2019 08:05:06.130 上午] Unity.Transforms.Editor.dll compilation finished in 126ms  source files re-parsed: 1 metadata reloaded: 2
+ (0,0): [06/06/2019 08:05:06.141 上午] Unity.Transforms.Editor.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:20.041 上午] Assembly-CSharp-firstpass.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:20.053 上午] Assembly-CSharp-firstpass.dll compiling...
+ (0,0): [06/06/2019 08:05:20.131 上午] Assembly-CSharp-firstpass.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Assembly-CSharp-firstpass.dll
+ (0,0): [06/06/2019 08:05:20.233 上午] Assembly-CSharp-firstpass.dll compilation finished in 180ms  source files re-parsed: 49 metadata reloaded: 10
+ (0,0): [06/06/2019 08:05:20.245 上午] Assembly-CSharp-firstpass.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:05:20.580 上午] Assembly-CSharp.dll: no prior compilation found in cache. Caller PID: 45952
+ (0,0): [06/06/2019 08:05:20.592 上午] Assembly-CSharp.dll compiling...
+ (0,0): [06/06/2019 08:05:20.633 上午] Assembly-CSharp.dll: emitting IL to : D:\yuanfang\Pro\MinecraftECSPro\Temp\Assembly-CSharp.dll
+ (0,0): [06/06/2019 08:05:20.673 上午] Assembly-CSharp.dll compilation finished in 81ms  source files re-parsed: 11 metadata reloaded: 1
+ (0,0): [06/06/2019 08:05:20.684 上午] Assembly-CSharp.dll: session status updated to IncrementalCompilationStatus.Finished for Caller PID: 45952
+ (0,0): [06/06/2019 08:08:51.623 上午] watchdog triggered an exit
